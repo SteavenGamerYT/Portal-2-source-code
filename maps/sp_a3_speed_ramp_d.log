@@ -1,0 +1,23 @@
+15:06:48.100 INFO  Loading /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/sp_a3_speed_ramp.bsp
+15:06:48.938 INFO  Using 'DStaticPropV9' for sprp version 9
+15:06:48.943 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+15:06:48.943 WARN  Lump LUMP_DISPINFO is empty
+15:06:48.943 WARN  Lump LUMP_DISP_VERTS is empty
+15:06:48.943 WARN  Lump LUMP_DISP_TRIS is empty
+15:06:48.943 WARN  Lump LUMP_DISP_MULTIBLEND is empty
+15:06:48.943 INFO  BSP version: 21
+15:06:48.943 INFO  Game: Portal 2
+15:06:48.945 INFO  No areaportals to reallocate...
+15:06:48.945 INFO  No occluders to reallocate...
+15:06:48.967 INFO  2163 (37.7%) exact brushside->origface matches
+15:06:48.967 INFO  1/0 (nondisp/disp) original faces left after exact brushside->origface matching
+15:06:48.971 INFO  143 (2.5%) partial brushside->origface matches
+15:06:48.971 INFO  Writing brushes and planes
+15:06:49.012 INFO  Writing displacements
+15:06:49.012 INFO  Writing entities
+15:06:49.030 INFO  Writing func_details
+15:06:49.071 INFO  Writing info_overlays
+15:06:49.072 INFO  Writing prop_statics
+15:06:49.080 INFO  Writing env_cubemaps
+15:06:49.080 INFO  Writing func_ladders
+15:06:49.080 INFO  Finished decompiling /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/sp_a3_speed_ramp.bsp.

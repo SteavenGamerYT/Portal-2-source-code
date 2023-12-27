@@ -1,0 +1,22 @@
+15:06:42.895 INFO  Loading /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/mp_coop_tbeam_maze.bsp
+15:06:43.563 INFO  Using 'DStaticPropV9' for sprp version 9
+15:06:43.566 WARN  Lump LUMP_DISPINFO is empty
+15:06:43.566 WARN  Lump LUMP_DISP_VERTS is empty
+15:06:43.566 WARN  Lump LUMP_DISP_TRIS is empty
+15:06:43.566 WARN  Lump LUMP_DISP_MULTIBLEND is empty
+15:06:43.567 INFO  BSP version: 21
+15:06:43.567 INFO  Game: Portal 2
+15:06:43.571 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+15:06:43.571 INFO  No occluders to reallocate...
+15:06:43.663 INFO  2166 (29.9%) exact brushside->origface matches
+15:06:43.663 INFO  0/0 (nondisp/disp) original faces left after exact brushside->origface matching
+15:06:43.694 INFO  220 (3.0%) partial brushside->origface matches
+15:06:43.694 INFO  Writing brushes and planes
+15:06:43.725 INFO  Writing displacements
+15:06:43.725 INFO  Writing entities
+15:06:43.740 INFO  Writing func_details
+15:06:43.904 INFO  Writing info_overlays
+15:06:43.905 INFO  Writing prop_statics
+15:06:43.924 INFO  Writing env_cubemaps
+15:06:43.925 INFO  Writing func_ladders
+15:06:43.925 INFO  Finished decompiling /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/mp_coop_tbeam_maze.bsp.

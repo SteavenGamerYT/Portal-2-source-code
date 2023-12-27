@@ -1,0 +1,19 @@
+15:06:41.827 INFO  Loading /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/sp_a3_portal_intro.bsp
+15:06:43.416 INFO  Using 'DStaticPropV9' for sprp version 9
+15:06:43.419 WARN  Lump LUMP_DISP_MULTIBLEND is empty
+15:06:43.422 INFO  BSP version: 21
+15:06:43.422 INFO  Game: Portal 2
+15:06:43.426 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+15:06:43.428 INFO  No occluders to reallocate...
+15:06:43.495 INFO  4745 (30.4%) exact brushside->origface matches
+15:06:43.495 INFO  0/137 (nondisp/disp) original faces left after exact brushside->origface matching
+15:06:43.528 INFO  167 (1.1%) partial brushside->origface matches
+15:06:43.528 INFO  Writing brushes and planes
+15:06:43.647 INFO  Writing displacements
+15:06:43.673 INFO  Writing entities
+15:06:43.738 INFO  Writing func_details
+15:06:44.043 INFO  Writing info_overlays
+15:06:44.048 INFO  Writing prop_statics
+15:06:44.090 INFO  Writing env_cubemaps
+15:06:44.091 INFO  Writing func_ladders
+15:06:44.092 INFO  Finished decompiling /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/sp_a3_portal_intro.bsp.

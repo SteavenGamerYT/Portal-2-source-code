@@ -1,0 +1,23 @@
+15:06:44.757 INFO  Loading /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/mp_coop_wall_2.bsp
+15:06:45.095 INFO  Using 'DStaticPropV9' for sprp version 9
+15:06:45.096 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+15:06:45.096 WARN  Lump LUMP_DISPINFO is empty
+15:06:45.096 WARN  Lump LUMP_DISP_VERTS is empty
+15:06:45.096 WARN  Lump LUMP_DISP_TRIS is empty
+15:06:45.096 WARN  Lump LUMP_DISP_MULTIBLEND is empty
+15:06:45.096 INFO  BSP version: 21
+15:06:45.096 INFO  Game: Portal 2
+15:06:45.097 INFO  No areaportals to reallocate...
+15:06:45.097 INFO  No occluders to reallocate...
+15:06:45.125 INFO  1240 (25.3%) exact brushside->origface matches
+15:06:45.125 INFO  1/0 (nondisp/disp) original faces left after exact brushside->origface matching
+15:06:45.138 INFO  102 (2.1%) partial brushside->origface matches
+15:06:45.139 INFO  Writing brushes and planes
+15:06:45.185 INFO  Writing displacements
+15:06:45.185 INFO  Writing entities
+15:06:45.200 INFO  Writing func_details
+15:06:45.242 INFO  Writing info_overlays
+15:06:45.242 INFO  Writing prop_statics
+15:06:45.245 INFO  Writing env_cubemaps
+15:06:45.245 INFO  Writing func_ladders
+15:06:45.245 INFO  Finished decompiling /media/hdd/SteamLibrary/steamapps/common/Portal 2/portal2/maps/mp_coop_wall_2.bsp.
